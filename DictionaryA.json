@@ -1,1 +1,86 @@
-
+{
+  "ant": [
+    {
+      "category": "English",
+      "content": "Ant"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "পোক"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "चींटी"
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "Even small contributions can be valuable."
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "I saw an ant carrying a crumb."
+    }
+  ],
+  "apple": [
+    {
+      "category": "English",
+      "content": "Apple"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "আপেল"
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "Eating healthy is important for good health."
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "I ate a red apple for breakfast."
+    }
+  ],
+  "arrow": [
+    {
+      "category": "English",
+      "content": "Arrow"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "বাণ"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "तीर"
+    },
+    {
+      "category": "বঙালী",
+      "content": "তীর"
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "Practice makes perfect."
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "The archer aimed his arrow at the target."
+    }
+  ],
+  "airplane": [
+    {
+      "category": "English",
+      "content": "Airplane"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "বিমান"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "विमान"
+    },
+    {
+      "category": "বঙালী",
+      "content": "বিমান"
+    },
+  ]
+}
