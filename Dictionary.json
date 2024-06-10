@@ -1,9 +1,5 @@
-
+{
   "কুকুৰ": [
-    {
-      "category": "শব্দ",
-      "content": "কুকুৰ"
-    },
     {
       "category": "অসমীয়া",
       "content": "কুকুৰ"
@@ -22,7 +18,7 @@
     },
     {
       "category": "ৰাভা",
-      "content": "কি" 
+      "content": "কুকুৰ" 
     },
     {
       "category": "ফকৰা যোজনা",
@@ -39,12 +35,8 @@
   ],
   "apple": [
     {
-      "category": "শব্দ",
-      "content": "Apple" 
-    },
-    {
       "category": "অসমীয়া",
-      "content": "সেউজ" 
+      "content": "সেৱ"
     },
     {
       "category": "English",
@@ -76,10 +68,6 @@
     }
   ],
   "cat": [
-    {
-      "category": "শব্দ",
-      "content": "Cat" 
-    },
     {
       "category": "অসমীয়া",
       "content": "বিৰাল"
@@ -115,10 +103,6 @@
   ],
   "ডাকৰ বচন": [
     {
-      "category": "শব্দ",
-      "content": "ডাকৰ বচন"
-    },
-    {
       "category": "অসমীয়া",
       "content": "ডাকৰ বচন"
     },
@@ -145,6 +129,10 @@
     {
       "category": "অৰ্থ",
       "content": "It's better to keep quiet than to speak unwisely." 
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "I put a letter in the mailbox." 
     }
   ]
 }
