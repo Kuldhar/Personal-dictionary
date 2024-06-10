@@ -1,1 +1,150 @@
-
+{
+  "dog": [
+    {
+      "category": "শব্দ",
+      "content": "Dog"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "কুকুৰ"
+    },
+    {
+      "category": "English",
+      "content": "Dog" 
+    },
+    {
+      "category": "হিন্দী",
+      "content": "कुत्ता"
+    },
+    {
+      "category": "বঙালী",
+      "content": "কুকুৰ"
+    },
+    {
+      "category": "ৰাভা",
+      "content": "কি" 
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "A dog is a man's best friend."
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "A loyal and faithful companion."
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "My dog loves to play fetch." 
+    }
+  ],
+  "apple": [
+    {
+      "category": "শব্দ",
+      "content": "Apple" 
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "সেউজ" 
+    },
+    {
+      "category": "English",
+      "content": "Apple"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "सेब"
+    },
+    {
+      "category": "বঙালী",
+      "content": "আপেল"
+    },
+    {
+      "category": "ৰাভা",
+      "content": "আপেল"
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "An apple a day keeps the doctor away."
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "Eating healthy is important for good health."
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "I ate a red apple for breakfast."
+    }
+  ],
+  "cat": [
+    {
+      "category": "শব্দ",
+      "content": "Cat" 
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "বিৰাল"
+    },
+    {
+      "category": "English",
+      "content": "Cat"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "बिल्ली"
+    },
+    {
+      "category": "বঙালী",
+      "content": "বিড়াল"
+    },
+    {
+      "category": "ৰাভা",
+      "content": "বিৰাল"
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "Curiosity killed the cat." 
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "Being too inquisitive can lead to trouble." 
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "The cat sat on the mat." 
+    }
+  ],
+  "ডাকৰ বচন": [
+    {
+      "category": "শব্দ",
+      "content": "ডাকৰ বচন"
+    },
+    {
+      "category": "অসমীয়া",
+      "content": "ডাকৰ বচন"
+    },
+    {
+      "category": "English",
+      "content": "Mailbox"
+    },
+    {
+      "category": "হিন্দী",
+      "content": "डाक का डिब्बा"
+    },
+    {
+      "category": "বঙালী",
+      "content": "ডাক বাক্স"
+    },
+    {
+      "category": "ৰাভা",
+      "content": "ডাকৰ বচন"
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "A closed mouth catches no flies."
+    },
+    {
+      "category": "অৰ্থ",
+      "content": "It's better to keep quiet than to speak unwisely." 
+    }
+  ]
+}
