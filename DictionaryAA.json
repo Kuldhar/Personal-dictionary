@@ -1,0 +1,62 @@
+{
+  "অংশু": [
+    {
+      "category": "অসমীয়া",
+      "content": "অংশু"
+    },
+    {
+      "category": "English",
+      "content": "Ray" 
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "উপলভ্য নহয়",
+    },
+    {
+      "category": "শব্দ", 
+      "content": "যি বিয়পে বা ব্যপ্ত হয়৷" 
+    }
+  ],
+  "অগ্ৰা": [
+    {
+      "category": "অসমীয়া",
+      "content": "অগ্ৰা"
+    },
+    {
+      "category": "English",
+      "content": "Last Rites" 
+    },
+    {
+      "category": "শব্দ", 
+      "content": "মৰণ কালত মানুহৰ মুখত দিয়া গাখীৰ বা পানী৷"
+    }
+  ],
+  "অচা": [
+    {
+      "category": "অসমীয়া",
+      "content": "অচা"
+    },
+    {
+      "category": "English",
+      "content": "To rinse one's mouth after a meal" 
+    },
+    {
+      "category": "শব্দ",
+      "content": "ভোজন কৰি মুখ ধো" 
+    }
+  ],
+  "অচিয়ৎ": [
+    {
+      "category": "অসমীয়া",
+      "content": "অচিয়ৎ"
+    },
+    {
+      "category": "English",
+      "content": "Advice or instructions given before a journey or death" 
+    },
+    {
+      "category": "শব্দ",
+      "content": "ভ্ৰমণ অথবা মৃত্যুৰ আগত দিয়া উপদেশ বা নিৰ্দেশনাৱলী৷" 
+    }
+  ]
+}
