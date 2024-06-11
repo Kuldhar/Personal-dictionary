@@ -1,3 +1,4 @@
+ const dictionary = [
       { word: "অ’ত ত’ত ঘুৰি ফুৰা লোক", definition: "অঘৰী" },
       { word: "অশেষ মূল্য যাৰ", definition: "অমূল্য" },
       { word: "আঁঠুলৈ বৈ পৰা", definition: "আজানুলম্বিত" },
@@ -14,3 +15,4 @@
       { word: "একে মাকৰ সন্তান", definition: "সহোদৰ, সোদৰ" },
       { word: "একে শ্ৰেণীতে পঢ়া", definition: "সহপাঠী" },
       { word: "একে সময়তে হোৱা", definition: "সমসাময়িক" },
+ ]
