@@ -1,4 +1,66 @@
 {
+  "কথা": [
+    {
+      "category": "অসমীয়া",
+      "content": "কথা"
+    },
+    {
+      "category": "English",
+      "content": "Word"
+    },
+    {
+      "category": "শব্দ",
+      "content": "A spoken or written communication"
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "He spoke with kind words."
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "কথাৰে মন ভাঙিব পাৰি"
+    }
+  ],
+  "কলম": [
+    {
+      "category": "অসমীয়া",
+      "content": "কলম"
+    },
+    {
+      "category": "English",
+      "content": "Pen"
+    },
+    {
+      "category": "শব্দ",
+      "content": "A writing implement"
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "She wrote a letter with a blue pen."
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "কলমৰ তাল"
+    }
+  ],
+  "কাঠ": [
+    {
+      "category": "অসমীয়া",
+      "content": "কাঠ"
+    },
+    {
+      "category": "English",
+      "content": "Wood"
+    },
+    {
+      "category": "শব্দ",
+      "content": "A hard, fibrous material"
+    },
+    {
+      "category": "উদাহৰণ",
+      "content": "The table was made of wood."
+    }
+  ],
   "কুকুৰ": [
     {
       "category": "অসমীয়া",
@@ -6,133 +68,77 @@
     },
     {
       "category": "English",
-      "content": "Dog" 
+      "content": "Dog"
     },
     {
-      "category": "হিন্দী",
-      "content": "कुत्ता"
-    },
-    {
-      "category": "বঙালী",
-      "content": "কুকুৰ"
-    },
-    {
-      "category": "ৰাভা",
-      "content": "কুকুৰ" 
-    },
-    {
-      "category": "ফকৰা যোজনা",
-      "content": "A dog is a man's best friend."
-    },
-    {
-      "category": "অৰ্থ",
-      "content": "A loyal and faithful companion."
+      "category": "শব্দ",
+      "content": "A domesticated canine"
     },
     {
       "category": "উদাহৰণ",
-      "content": "My dog loves to play fetch." 
+      "content": "The dog barked at the mailman."
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "কুকুৰৰ মন"
     }
   ],
-  "apple": [
+  "কাউৰী": [
     {
       "category": "অসমীয়া",
-      "content": "সেৱ"
+      "content": "কাউৰী"
     },
     {
       "category": "English",
-      "content": "Apple"
+      "content": "Crow"
     },
     {
-      "category": "হিন্দী",
-      "content": "सेब"
-    },
-    {
-      "category": "বঙালী",
-      "content": "আপেল"
-    },
-    {
-      "category": "ৰাভা",
-      "content": "আপেল"
-    },
-    {
-      "category": "ফকৰা যোজনা",
-      "content": "An apple a day keeps the doctor away."
-    },
-    {
-      "category": "অৰ্থ",
-      "content": "Eating healthy is important for good health."
+      "category": "শব্দ",
+      "content": "A black bird with a harsh call"
     },
     {
       "category": "উদাহৰণ",
-      "content": "I ate a red apple for breakfast."
+      "content": "The crow flew overhead."
     }
   ],
-  "cat": [
+  "কমলা": [
     {
       "category": "অসমীয়া",
-      "content": "বিৰাল"
+      "content": "কমলা"
     },
     {
       "category": "English",
-      "content": "Cat"
+      "content": "Orange"
     },
     {
-      "category": "হিন্দী",
-      "content": "बिल्ली"
-    },
-    {
-      "category": "বঙালী",
-      "content": "বিড়াল"
-    },
-    {
-      "category": "ৰাভা",
-      "content": "বিৰাল"
-    },
-    {
-      "category": "ফকৰা যোজনা",
-      "content": "Curiosity killed the cat." 
-    },
-    {
-      "category": "অৰ্থ",
-      "content": "Being too inquisitive can lead to trouble." 
+      "category": "শব্দ",
+      "content": "A citrus fruit"
     },
     {
       "category": "উদাহৰণ",
-      "content": "The cat sat on the mat." 
+      "content": "She peeled an orange for her snack."
     }
   ],
-  "ডাকৰ বচন": [
+  "কাপোৰ": [
     {
       "category": "অসমীয়া",
-      "content": "ডাকৰ বচন"
+      "content": "কাপোৰ"
     },
     {
       "category": "English",
-      "content": "Mailbox"
+      "content": "Cloth"
     },
     {
-      "category": "হিন্দী",
-      "content": "डाक का डिब्बा"
-    },
-    {
-      "category": "বঙালী",
-      "content": "ডাক বাক্স"
-    },
-    {
-      "category": "ৰাভা",
-      "content": "ডাকৰ বচন"
-    },
-    {
-      "category": "ফকৰা যোজনা",
-      "content": "A closed mouth catches no flies."
-    },
-    {
-      "category": "অৰ্থ",
-      "content": "It's better to keep quiet than to speak unwisely." 
+      "category": "শব্দ",
+      "content": "A woven or knitted material"
     },
     {
       "category": "উদাহৰণ",
-      "content": "I put a letter in the mailbox." 
+      "content": "The dress was made of a soft cloth."
+    },
+    {
+      "category": "ফকৰা যোজনা",
+      "content": "কাপোৰৰ কথা"
     }
   ]
 }
