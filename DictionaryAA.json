@@ -1,29 +1,31 @@
 {
       "অ’ত ত’ত ঘুৰি ফুৰা লোক": [
-        { category: "Assamese", content: "অঘৰী" }
+        { 
+              category: "অসমীয়া", 
+       content: "অঘৰী" }
       ],
 {
       "অশেষ মূল্য যাৰ": [
-        { category: "Assamese", content: "অমূল্য" }
+        { category: "অসমীয়া", content: "অমূল্য" }
       ],
 {
       "আঁঠুলৈ বৈ পৰা": [
-        { category: "Assamese", content: "আজানুলম্বিত" }
+        { category: "অসমীয়া", content: "আজানুলম্বিত" }
       ],
 {
       "আকাশত ফুৰে যি": [
-        { category: "Assamese", content: "খেচৰ" }
+        { category: "অসমীয়া", content: "খেচৰ" }
       ],
 {
       "আগে আগে গমন কৰে যি": [
-        { category: "Assamese", content: "অগ্ৰগামী" }
+        { category: "অসমীয়া", content: "অগ্ৰগামী" }
       ],
 {
       "আনৰ দোষ দেখা স্বভাৱ": [
-        { category: "Assamese", content: "অসূয়া" }
+        { category: "অসমীয়া", content: "অসূয়া" }
       ],
 {
       "আনৰ ভাল দেখিব নোৱাৰা": [
-        { category: "Assamese", content: ["চকুচৰহা", "পৰশ্ৰীকাতৰ"] }
+        { category: "অসমীয়া", content: ["চকুচৰহা", "পৰশ্ৰীকাতৰ"] }
       ]
 }
