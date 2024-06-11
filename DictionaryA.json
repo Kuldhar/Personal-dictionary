@@ -5,15 +5,7 @@
       "content": "Ant"
     },
     {
-      "category": "অসমীয়া",
-      "content": "পোক"
-    },
-    {
-      "category": "হিন্দী",
-      "content": "चींटी"
-    },
-    {
-      "category": "অৰ্থ",
+      "category": "শব্দ", 
       "content": "Even small contributions can be valuable."
     },
     {
@@ -27,11 +19,7 @@
       "content": "Apple"
     },
     {
-      "category": "অসমীয়া",
-      "content": "আপেল"
-    },
-    {
-      "category": "অৰ্থ",
+      "category": "শব্দ", 
       "content": "Eating healthy is important for good health."
     },
     {
@@ -45,19 +33,7 @@
       "content": "Arrow"
     },
     {
-      "category": "অসমীয়া",
-      "content": "বাণ"
-    },
-    {
-      "category": "হিন্দী",
-      "content": "तीर"
-    },
-    {
-      "category": "বঙালী",
-      "content": "তীর"
-    },
-    {
-      "category": "অৰ্থ",
+      "category": "শব্দ", 
       "content": "Practice makes perfect."
     },
     {
@@ -69,18 +45,6 @@
     {
       "category": "English",
       "content": "Airplane"
-    },
-    {
-      "category": "অসমীয়া",
-      "content": "বিমান"
-    },
-    {
-      "category": "হিন্দী",
-      "content": "विमान"
-    },
-    {
-      "category": "বঙালী",
-      "content": "বিমান"
-    },
+    }
   ]
 }
