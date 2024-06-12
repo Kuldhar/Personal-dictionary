@@ -51,9 +51,7 @@
       "দ্বিস্বৰ": [
         { "category": "অসমীয়া", "content": "Diphthong" },
         { "category": "অৰ্থ", "content": "Combination of two vowel sounds pronounced together." },
-        { "category": "উদাহৰণ", "content": [
-        { "example": "অ+আ", "result": "ঔ" },
-        { "example": "অ+ই", "result": "ঐ" }
+        { "category": "উদাহৰণ", "content": "অ+আ→ঔ; অ+ই→ঐ" }
       ],
   "Diphthong": [
     {
@@ -66,9 +64,7 @@
     },
     {
       "category": "উদাহৰণ",
-      "content": [
-        { "example": "অ+আ", "result": "ঔ" },
-        { "example": "অ+ই", "result": "ঐ" }
+      "content": "অ+আ→ঔ; অ+ই→ঐ" }
       ]
     }
   ]
