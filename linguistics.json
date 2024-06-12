@@ -1,0 +1,61 @@
+{
+
+      "অক্ষৰ": [
+        { "category": "English", "content": "Syllable" }
+      ],
+      "Syllable": [
+        { "category": "অসমীয়া", "content": "অক্ষৰ" }
+      ],
+      "অক্ষৰাধাৰ": [
+        { "category": "English", "content": "Syllable nucleus" }
+      ],
+      "Syllable nucleus": [
+        { "category": "অসমীয়া", "content": "অক্ষৰাধাৰ" }
+      ],
+      "অক্ষৰান্ত": [
+        { "category": "English", "content": "Coda" }
+      ],
+      "Coda": [
+        { "category": "অসমীয়া", "content": "অক্ষৰান্ত" }
+      ],
+      "অক্ষৰবিন্যাস": [
+        { "category": "English", "content": "Syllable division" }
+      ],
+      "Syllable division": [
+        { "category": "অসমীয়া", "content": "অক্ষৰবিন্যাস" }
+      ],
+      "অগ্ৰ": [
+        { "category": "English", "content": ["Front", "Fronted"]}
+      ],
+      "Front": [
+        { "category": "অসমীয়া", "content": "অগ্ৰ" }
+],
+      "Fronted": [
+        { "category": "অসমীয়া", "content": "অগ্ৰ" }
+      ],
+      "অঘোষ": [
+        { "category": "English", "content": "Voiceless" }
+      ],
+      "Voiceless": [
+        { "category": "অসমীয়া", "content": "অঘোষ" }
+      ],
+      "অঘোষাভাস": [
+        { "category": "English", "content": "Half voiceless" }
+      ],
+      "Half voiceless": [
+        { "category": "অসমীয়া", "content": "অঘোষাভাস" }
+      ],
+      "Voiceless-like": [
+        { "category": "অসমীয়া", "content": "অঘোষাভাস" }
+      ],
+      "দ্বিস্বৰ": [
+        { "category": "অসমীয়া", "content": "Diphthong" },
+        { "category": "অৰ্থ", "content": "Combination of two vowel sounds pronounced together." },
+        { "category": "উদাহৰণ", "content": ["অ+আ→ঔ", "অ+ই→ঐ"]},
+      ]
+      "Diphthong": [
+        { "category": "অসমীয়া", "content": "দ্বিস্বৰ" },
+        { "category": "অৰ্থ", "content": "Combination of two vowel sounds pronounced together." },
+        { "category": "উদাহৰণ", "content": ["অ+আ→ঔ", "অ+ই→ঐ"]},
+      ]
+}
